@@ -1,1 +1,0 @@
-# gerenciador_planetas
